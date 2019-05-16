@@ -2,9 +2,9 @@
 class Merlin < Formula
   desc "merlin --help"
   homepage "http://docs.codefresh.io"
-  url "https://github.com/codefresh-io/merlin/releases/download/v1.11.1/merlin_1.11.1_Darwin_x86_64.tar.gz"
-  version "1.11.1"
-  sha256 "254ddc9a1a9d2daaeee64e0a8356b5d4e28579a99965491be3bd87ed8ca013b3"
+  url "https://github.com/codefresh-io/merlin/releases/download/v1.12.0/merlin_1.12.0_Darwin_x86_64.tar.gz"
+  version "1.12.0"
+  sha256 "55cca7b108b3769bab0fcdae5389f66db3ab0cb299ca6d08eeb1e4c34bc3f163"
 
   def install
     bin.install "merlin"
